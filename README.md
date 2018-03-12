@@ -1,4 +1,4 @@
-Binary Search In Clas sExercise
+Binary Search In Class Exercise
 ===============================
 1. Copy and paste the following code into Processing
 ```javapublic void setup() {            
