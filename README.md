@@ -1,7 +1,8 @@
 Binary Search In Class Exercise
 ===============================
 1. Copy and paste the following code into Processing
-```javapublic void setup() {            
+```java
+public void setup() {            
   int [] theArray = {
     1, 3, 5, 7, 10
   };           
