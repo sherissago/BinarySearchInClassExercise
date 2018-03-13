@@ -27,7 +27,7 @@ public static int binarySearch(int [] naNums, int nTarget, int low, int high) { 
 }  
 ```
 2. Finish the the two binarySearch methods. The two argument version should use a loop, and the four argument version should use recursion. The correct output should be:    
-`-1, 0, 1, -1, 4, -1   
--1, 0, 1, -1, 4, -1` 
+`-1, 0, 1, -1, 4, -1`      
+`-1, 0, 1, -1, 4, -1`    
 Make sure you can find 3 & 10!    
 3. Submit your finished pde file in to Google Classroom for the assignment
